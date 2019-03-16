@@ -1,0 +1,14 @@
+O:\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\bin\Debug\cis237-assignment1.exe.config
+O:\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\bin\Debug\cis237-assignment1.exe
+O:\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\bin\Debug\cis237-assignment1.pdb
+O:\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\obj\Debug\cis237-assignment1.csprojAssemblyReference.cache
+O:\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\obj\Debug\cis237-assignment1.csproj.CoreCompileInputs.cache
+O:\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\obj\Debug\cis237-assignment1.exe
+O:\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\obj\Debug\cis237-assignment1.pdb
+D:\college\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\bin\Debug\cis237-assignment1.exe.config
+D:\college\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\bin\Debug\cis237-assignment1.exe
+D:\college\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\bin\Debug\cis237-assignment1.pdb
+D:\college\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\obj\Debug\cis237-assignment1.csprojAssemblyReference.cache
+D:\college\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\obj\Debug\cis237-assignment1.csproj.CoreCompileInputs.cache
+D:\college\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\obj\Debug\cis237-assignment1.exe
+D:\college\c#advance\cis237-assignment-1-heymanshudeepSingh\cis237-assignment1\obj\Debug\cis237-assignment1.pdb
