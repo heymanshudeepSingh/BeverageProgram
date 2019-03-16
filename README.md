@@ -1,6 +1,3 @@
-# Assignment 1 - Review of C# Basic Concepts and Introduction to Git
-
-## Due 01-23-2019
 
 ## Heymanshudeep Singh
 
@@ -66,39 +63,6 @@ Solution Requirements:
 * An array [contents will be type beverageItem]
 * At least one method/function. (The main method is not included in this count)
 
-### Notes
-Even though you are free to write this however you would like within the constraints laid out above in the requirements, try to follow the single responsibility principle. I would suggest that you should attempt to make the User Interface handle the UI, the Beverage and BeverageCollection handle representing the data, CSVProcessor handle obtaining the data, and the Program/Main handle orchestrating all of it.
-
-Try to send any dependencies into a class via either a constructor, or a method rather than creating a new one in the class. If possible make all of the new instances in Program main. This is less of a concern for the classes that are obviously related. It is fine for BeverageCollection to create a new Beverage instance since they are clearly related. The goal is to future proof the program. Think of what if cases such as the following:
-* What if we wanted to change out the User Interface with a different one? How much work would need to be done to fix it?
-* What if instead of reading from a CSV file we wanted to start reading from a database? How much work would need to be done to fix it?
-
-Suggestion/Hints:
-
-* How the user enters the information is your choice (i.e., one at a time, all at once, etc.).
-* You might need multiple loops, methods, control structures – just depends on your design. However, you must have a least one of each.
-* Remember to handle the case when the user has entered no information. You can print a simple message (i.e., “No data entered” or something else). It just needs to be obvious to the user that something has happened.
-* Remember to handle (gracefully) cases where the user enters something incorrectly.
-
-## Grading
-| Feature                    | Points |
-|----------------------------|--------|
-| Load CSV                   | 10     |
-| Load CSV Only Once         | 5      |
-| Print List                 | 10     |
-| Search                     | 10     |
-| Add New Item               | 10     |
-| ToString Override          | 10     |
-| CSV Processor Class        | 5      |
-| UserInterface Class        | 5      |
-| Beverage Class             | 5      |
-| BeverageCollection Class   | 5      |
-| A Loop / Control Structure | 5      |
-| A Method                   | 5      |
-| Beverage Array             | 5      |
-| Documentation              | 5      |
-| Readme                     | 5      |
-| **Total**                  | **100**|
 
 ## No outside resources used
 
